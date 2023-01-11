@@ -1,3 +1,5 @@
+# version type 003
+
 weight = int(input('Enter your weighht : '))
 
 weight_type = input("Type 'kg' or 'lbs' ")
